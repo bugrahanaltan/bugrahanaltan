@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Bugrahan</h1>
+<h1 align="center">Hi, I'm Bugrahan </h1>
 <h3 align="center">A passionate software developer</h3>
+<h4 align="center">Interested in embedded systems, real time systems, aviation, space, defense industries, and electronics,</h4>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrahanaltan&label=Profile%20views&color=0e75b6&style=flat" alt="bugrahanaltan" /> </p>
